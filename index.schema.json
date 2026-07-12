@@ -1,0 +1,74 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/kye-level-index.schema.json",
+  "title": "Kye level set index",
+  "type": "object",
+  "required": ["schemaVersion", "generatedAt", "levelSets"],
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": { "type": "integer", "const": 1 },
+    "generatedAt": { "type": "string", "format": "date-time" },
+    "description": { "type": "string" },
+    "sources": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/source" },
+      "uniqueItems": true
+    },
+    "levelSets": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/levelSet" }
+    }
+  },
+  "$defs": {
+    "source": {
+      "type": "object",
+      "required": ["id", "name", "url"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$" },
+        "name": { "type": "string", "minLength": 1 },
+        "url": { "type": "string", "format": "uri" },
+        "notes": { "type": "string" }
+      }
+    },
+    "levelSet": {
+      "type": "object",
+      "required": ["id", "title", "sha256", "urls"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9._-]*$" },
+        "title": { "type": "string", "minLength": 1 },
+        "author": { "type": "string", "minLength": 1 },
+        "sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+        "bytes": { "type": "integer", "minimum": 0 },
+        "levelCount": { "type": "integer", "minimum": 1 },
+        "fileName": { "type": "string", "pattern": "(?i)\\.kye$" },
+        "description": { "type": "string" },
+        "license": { "type": "string" },
+        "sourceIds": {
+          "type": "array",
+          "items": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$" },
+          "uniqueItems": true
+        },
+        "urls": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/$defs/urlRecord" }
+        },
+        "notes": { "type": "string" }
+      }
+    },
+    "urlRecord": {
+      "type": "object",
+      "required": ["url"],
+      "additionalProperties": false,
+      "properties": {
+        "url": { "type": "string", "format": "uri" },
+        "sourceId": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$" },
+        "archiveUrl": { "type": "string", "format": "uri" },
+        "retrievedAt": { "type": "string", "format": "date-time" },
+        "notes": { "type": "string" }
+      }
+    }
+  }
+}

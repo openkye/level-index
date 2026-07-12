@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-12T00:00:00Z",
+  "description": "Index of known public Kye level-set files. Entries are keyed by the SHA-256 hash of the exact .kye file bytes, not by a zipped container or download page.",
+  "sources": [
+    {
+      "id": "my-kye-page",
+      "name": "My Kye Page - Level Sets",
+      "url": "https://kye.me.uk/levels.html",
+      "notes": "Public catalogue of zipped third-party level sets. The underlying .kye files should be indexed after extracting each zip. Direct downloads may require normal browser access."
+    },
+    {
+      "id": "python-kye-my-levels",
+      "name": "Python Kye - My Kye Levels",
+      "url": "https://games.moria.org.uk/kye/mylevels",
+      "notes": "Colin Phipps and Robert Phipps level sets published as direct .kye files."
+    },
+    {
+      "id": "kye-charity-levels",
+      "name": "My Kye Page - Charity Levels",
+      "url": "https://kye.me.uk/charitylevels.html",
+      "notes": "Registration/charity level sets originally provided by Colin Garbutt; index the .kye bytes while preserving the charity-shareware notice."
+    }
+  ],
+  "levelSets": []
+}
