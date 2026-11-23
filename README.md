@@ -35,13 +35,17 @@ against the set's `sha256` after normalizing it.
 - `homepage`: the set's home page, omitted when unknown. Where a set is linked
   from several pages, this is a best effort at the canonical one.
 - `sha256`: lowercase hex SHA-256 of the normalized file: the file parsed and
-  re-encoded with LF line endings, trimmed name/hint/message lines, board rows
-  cut or padded with spaces to 30 columns, and nothing after the last level.
-  Copies that differ only in these ways, such as a DOS copy with a trailing
-  Ctrl-Z, are one set with several sources. SKye's TI-89 level libraries
-  (`.89y`) are not converted yet: their `sha256` is of the exact file,
-  `levels` comes from the library header, and they are always marked `skye`,
-  so the server does not import them.
+  re-encoded with LF line endings, trimmed name/hint/message lines, nothing
+  after the last level, and each board as the engine plays it
+  (`kye.Board.Normalize`): short rows padded with spaces, border cells that
+  are not walls turned into wall `5`, only the last `K` kept, and a `K` added
+  at (3, 3) when there is none. Boards with Kye 3.0 teleporters keep their
+  border and Kyes, since Kye 3.0 wraps around border gaps. Copies that differ
+  only in these ways, such as a DOS copy with a trailing Ctrl-Z, are one set
+  with several sources. SKye's TI-89 level libraries (`.89y`) are not
+  converted yet: their `sha256` is of the exact file, `levels` comes from the
+  library header, and they are always marked `skye`, so the server does not
+  import them.
 - `levels`: the number of levels in the file.
 - `extensions`: game features beyond Kye 2.0 that the set needs, omitted when
   it needs none. `kye3` is Kye 3.0: teleporters `(` `)` `_` `'` facing right,

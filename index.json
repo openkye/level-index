@@ -481,7 +481,7 @@
       "filename": "AntKye2.kye",
       "author": "Antony Sammeroff",
       "homepage": "https://kye.me.uk/levels.html",
-      "sha256": "83711651d070d255c99dda456a5238d2f0269785e35044795b7da182da44c9f9",
+      "sha256": "502fa794eadab837beaf8f1a4b76034d7d91b86e09f8510529655aee18a57dd8",
       "levels": 12,
       "extensions": [
         "unknown"
@@ -1063,7 +1063,7 @@
     {
       "filename": "Brink.kye",
       "homepage": "https://www.freshports.org/games/kye-data",
-      "sha256": "aba5631d6aaa40610b25da574c8b320e89cdd8a1c502a0d66aa7a291c1bc7062",
+      "sha256": "fa55ba2c7ba7606bd3e9a303612b40e43a72e19a0de871202c4eec5cca9e53ec",
       "levels": 5,
       "sources": [
         {
@@ -1080,7 +1080,7 @@
       "filename": "BUGS.KYE",
       "author": "Jytte Madsen",
       "homepage": "https://kye.jytte.org/writers/Jytte_Madsen/bugs.php",
-      "sha256": "db3ef7f862b9bba3d3d0c4e3f3e6dcf324c853e84c9176fc34a762f060c8bbe9",
+      "sha256": "f00b592e2abf8806dec3b3dc3cd0cbda27d7eda2cf2f932b4e9095b8c4f6909b",
       "levels": 15,
       "extensions": [
         "unknown"
@@ -1124,7 +1124,7 @@
       "filename": "BULL1.KYE",
       "author": "Bill Birch & all at Bull",
       "homepage": "https://kye.me.uk/charitylevels.html",
-      "sha256": "e41c9be78eb2a163c42224e6c0f11a7455f594853efca4a229033d7bbbf70b14",
+      "sha256": "3b6e4e7826c447ccea073e04b86559d57fdfff0802c0ed7fbf00d2112db13c52",
       "levels": 12,
       "extensions": [
         "unknown"
@@ -1193,7 +1193,7 @@
       "filename": "BUTTER.KYE",
       "author": "David Butterfield & family",
       "homepage": "https://kye.me.uk/charitylevels.html",
-      "sha256": "c02afd4eeb62a0a9833e0ea720dcc55b93e30dd9bb3e003aaae72e5de6635155",
+      "sha256": "63a301a7ee8ebe8ae680887462cefa52c748cc4077dfdec0ed154b1f49d4e5b9",
       "levels": 24,
       "extensions": [
         "unknown"
@@ -1359,7 +1359,7 @@
     {
       "filename": "Cheater.kye",
       "homepage": "https://web.archive.org/web/2003/http://www.classicgaming.com/kye/main.htm",
-      "sha256": "460de8a6284836b287b7fcf556e0b0c3e2bcef22e4e7c9b84b8bd2e92a0541e8",
+      "sha256": "721bb3886b504c7c2ead7047a445ec0a8093f57b4e9ed2d115dea86b549b4984",
       "levels": 30,
       "sources": [
         {
@@ -1713,19 +1713,6 @@
     {
       "filename": "crowds.kye",
       "author": "Robert Phipps",
-      "homepage": "https://kye.me.uk/levels.html",
-      "sha256": "76fe73d060d25a212f88ba9db4e609e6146d2b751e5379afc971d06e96a6be9f",
-      "levels": 7,
-      "sources": [
-        {
-          "url": "https://kye.me.uk/levels/crowds.zip!/crowds.kye",
-          "sha256": "996c95e119fbd16f19ad7286f8db9c73df9302b4853d7eec81c5440b23242eb8"
-        }
-      ]
-    },
-    {
-      "filename": "crowds.kye",
-      "author": "Robert Phipps",
       "homepage": "https://games.moria.org.uk/kye/mylevels",
       "sha256": "7d04c846e960fb686dd2c548dbc0a1018ac590ce4ba1e695f97aa6221c54c534",
       "levels": 7,
@@ -1753,6 +1740,19 @@
         {
           "url": "https://web.archive.org/web/20070728161227id_/http://games.moria.org.uk/kye/crowds.kye",
           "sha256": "0535d9589043a1d70443c23def69cf3749fe19a856638d81d38b32c4088e50f1"
+        }
+      ]
+    },
+    {
+      "filename": "crowds.kye",
+      "author": "Robert Phipps",
+      "homepage": "https://kye.me.uk/levels.html",
+      "sha256": "cc2648ce8d23ab04c82bcc3785d6b00c412e33d2020a70ae2714421c0a871696",
+      "levels": 7,
+      "sources": [
+        {
+          "url": "https://kye.me.uk/levels/crowds.zip!/crowds.kye",
+          "sha256": "996c95e119fbd16f19ad7286f8db9c73df9302b4853d7eec81c5440b23242eb8"
         }
       ]
     },
@@ -2410,7 +2410,7 @@
       "filename": "DESMOND.KYE",
       "author": "Desmond Gaban",
       "homepage": "https://web.archive.org/web/19991004091810/http://www.gaban.com:80/kye/",
-      "sha256": "8f4c410f01843012828ea60ed38b785a9d5579cdf0c63203f6f9a2b0b821f25a",
+      "sha256": "152a70e567f2e40ef6bef286db767233e47d28bab75d3d45c8f5eb8293a8bb20",
       "levels": 9,
       "sources": [
         {
@@ -2704,6 +2704,22 @@
     },
     {
       "filename": "EASY.KYE",
+      "author": "Desmond Gaban",
+      "homepage": "https://web.archive.org/web/19991004091810/http://www.gaban.com:80/kye/",
+      "sha256": "2dc3ef99d1580cd3cf44eaee9fe7ce7f2b3af7aa3eab4e1042daf8f28f11f1ea",
+      "levels": 13,
+      "extensions": [
+        "unknown"
+      ],
+      "sources": [
+        {
+          "url": "https://web.archive.org/web/1999id_/http://www.gaban.com:80/kye/desmond.zip!/EASY.KYE",
+          "sha256": "060c411e855c6809701a1019bc99c89d1fdb52c08f5b7139405ce4ef0eb3d1a4"
+        }
+      ]
+    },
+    {
+      "filename": "EASY.KYE",
       "author": "Gary Sandino",
       "homepage": "https://kye.me.uk/levels.html",
       "sha256": "6b6c5d6f581ca7d8a267f69ad394a018a7efe4d78e704307da1b98fa6bde670d",
@@ -2724,22 +2740,6 @@
         {
           "url": "https://web.archive.org/web/2006id_/http://www.classicgaming.com:80/kye/levels/Garyskye.zip!/EASY.KYE",
           "sha256": "dc190366a0e4e487c744f694d85a9c67545af228f15001dc0cd7c315a3fd8afe"
-        }
-      ]
-    },
-    {
-      "filename": "EASY.KYE",
-      "author": "Desmond Gaban",
-      "homepage": "https://web.archive.org/web/19991004091810/http://www.gaban.com:80/kye/",
-      "sha256": "a317be1b0f6b8ba6974619ff022106d2f5bcb74102bc2678160de9e0e08a6f0c",
-      "levels": 13,
-      "extensions": [
-        "unknown"
-      ],
-      "sources": [
-        {
-          "url": "https://web.archive.org/web/1999id_/http://www.gaban.com:80/kye/desmond.zip!/EASY.KYE",
-          "sha256": "060c411e855c6809701a1019bc99c89d1fdb52c08f5b7139405ce4ef0eb3d1a4"
         }
       ]
     },
@@ -2854,7 +2854,7 @@
       "filename": "FIFI.KYE",
       "author": "Dominic Isaia",
       "homepage": "https://kye.me.uk/charitylevels.html",
-      "sha256": "a5b2752acc868143447968d234fa1c03aae672e9b52b5581c745f38e3f703ef5",
+      "sha256": "5dd860718aa97be95bd4fbb770ca1bea6670e61b2bcd7ccb2192110cf60fa6cb",
       "levels": 10,
       "sources": [
         {
@@ -3051,7 +3051,7 @@
       "filename": "GGRIGS.KYE",
       "author": "Graham Griggs",
       "homepage": "https://kye.me.uk/charitylevels.html",
-      "sha256": "5fe16597302f2ae7a3b54eb6b3e00747cc51334c7531597ff50fd5fc7b947796",
+      "sha256": "630b4495a4d21f449f7fb8270ac87b0938eed172d34a407850f7db3f770a461f",
       "levels": 5,
       "sources": [
         {
@@ -3645,7 +3645,7 @@
       "filename": "JASPER.KYE",
       "author": "Roy Taylor",
       "homepage": "https://kye.me.uk/charitylevels.html",
-      "sha256": "54f13e639745131a02d91d09988e4da294f9a93ea721d4f0433d5bcfccb8219e",
+      "sha256": "3fc510846d9686b4843bbf6becd4c359f28dca77fdc073446905b5d9b1d8a85d",
       "levels": 11,
       "sources": [
         {
@@ -4211,7 +4211,7 @@
       "filename": "LIZZY.KYE",
       "author": "Lizzie Garbutt",
       "homepage": "https://kye.me.uk/charitylevels.html",
-      "sha256": "ec850162eb1214059d31b240e023d878d6d6111a9074af3b628f59c17b74c4d7",
+      "sha256": "3f8fc73e33b2f3ee1a0cc3f729f98d851d7f113f8c685fe1bbb791e98684f811",
       "levels": 4,
       "sources": [
         {
@@ -4321,7 +4321,7 @@
       "filename": "Maltus.kye",
       "author": "Martin",
       "homepage": "https://www.oocities.org/timessquare/stadium/4790/maltus.html",
-      "sha256": "56a43a31107e7dd3a31dc3f99a1e9609ce60b6584ef4e4e7d713867732bd05a7",
+      "sha256": "4ad0de56fe94e1b4950cb4d8fd2c8e657d0ba0d12858e3c4ee6ff3fc0ab12e4e",
       "levels": 10,
       "sources": [
         {
@@ -4502,7 +4502,7 @@
       "filename": "morebugs.KYE",
       "author": "Jytte Madsen",
       "homepage": "https://kye.jytte.org/writers/Jytte_Madsen/aboutwriter.php",
-      "sha256": "4d6b9c324d6895f661cbe06ec58a6aff2369cce035829b07e258f1988ff6f1b2",
+      "sha256": "dd449bd1d05caa1ee1d90dc6553306c0cc7dba755eb36f5c9995742a2da1e7ef",
       "levels": 8,
       "extensions": [
         "unknown"
@@ -4920,7 +4920,7 @@
       "filename": "philsel1.kye",
       "author": "Philip Shirey",
       "homepage": "https://kye.me.uk/levels.html",
-      "sha256": "59329e39b22fe483ea6f44873428f871c2c802ca5756d5b2254e684f17fcd078",
+      "sha256": "18750f48ac3c94e52ae986cf2654b2206e3b07d3d8bfb59b5801cf835e2964de",
       "levels": 26,
       "sources": [
         {
@@ -5850,7 +5850,7 @@
       "filename": "Second.kye",
       "author": "Martin",
       "homepage": "https://www.oocities.org/timessquare/stadium/4790/second.html",
-      "sha256": "14613c3e348d0aa15265bf81501996738c9c8b6ec3ebc65277202a0219e46f6a",
+      "sha256": "6c750838dfe67bc42b70e7b3790bd4d63030d66fcdd22983787fda87eab3d160",
       "levels": 10,
       "extensions": [
         "unknown"
@@ -6243,6 +6243,34 @@
     {
       "filename": "Template.kye",
       "author": "luke-jr (Kye 3.0)",
+      "homepage": "https://sourceforge.net/projects/kye/files/Kye3-win-beta10/3.0.1063/",
+      "sha256": "478781837d698d39fae771a7b8c370952a0638c9ae90d064adede6b9c60b3fa5",
+      "levels": 1,
+      "extensions": [
+        "unknown"
+      ],
+      "sources": [
+        {
+          "url": "https://downloads.sourceforge.net/project/kye/Kye3-win-beta10/3.0.1063/kye_win32_beta10_minimum.zip!/Levels/Template.kye",
+          "sha256": "5cf880508a5137ab25878ea43aa1347142ccbe498691d3e959dc28929ea2e796"
+        },
+        {
+          "url": "https://downloads.sourceforge.net/project/kye/OldFiles/Kye.zip!/Copy of Kye/Levels/Template.kye",
+          "sha256": "5cf880508a5137ab25878ea43aa1347142ccbe498691d3e959dc28929ea2e796"
+        },
+        {
+          "url": "https://svn.code.sf.net/p/kye/code/trunk/Levels/Template.kye?p=14",
+          "sha256": "e82d848b3baf555d54882e86a6c60de4631595714eed4b6a49de5e677c204560"
+        },
+        {
+          "url": "https://svn.code.sf.net/p/kye/code/trunk/Levels/Template.kye?p=28",
+          "sha256": "e82d848b3baf555d54882e86a6c60de4631595714eed4b6a49de5e677c204560"
+        }
+      ]
+    },
+    {
+      "filename": "Template.kye",
+      "author": "luke-jr (Kye 3.0)",
       "homepage": "https://sourceforge.net/p/kye/code/HEAD/tree/trunk/Levels/",
       "sha256": "630e660b96750f9ef09bcd7b012bfb45cbfe482269e0e5439bf80c2207efc88f",
       "levels": 1,
@@ -6423,32 +6451,6 @@
       ]
     },
     {
-      "filename": "Template.kye",
-      "author": "luke-jr (Kye 3.0)",
-      "homepage": "https://sourceforge.net/projects/kye/files/Kye3-win-beta10/3.0.1063/",
-      "sha256": "e82d848b3baf555d54882e86a6c60de4631595714eed4b6a49de5e677c204560",
-      "levels": 1,
-      "extensions": [
-        "unknown"
-      ],
-      "sources": [
-        {
-          "url": "https://downloads.sourceforge.net/project/kye/Kye3-win-beta10/3.0.1063/kye_win32_beta10_minimum.zip!/Levels/Template.kye",
-          "sha256": "5cf880508a5137ab25878ea43aa1347142ccbe498691d3e959dc28929ea2e796"
-        },
-        {
-          "url": "https://downloads.sourceforge.net/project/kye/OldFiles/Kye.zip!/Copy of Kye/Levels/Template.kye",
-          "sha256": "5cf880508a5137ab25878ea43aa1347142ccbe498691d3e959dc28929ea2e796"
-        },
-        {
-          "url": "https://svn.code.sf.net/p/kye/code/trunk/Levels/Template.kye?p=14"
-        },
-        {
-          "url": "https://svn.code.sf.net/p/kye/code/trunk/Levels/Template.kye?p=28"
-        }
-      ]
-    },
-    {
       "filename": "Temple Chamber1.kye",
       "homepage": "https://www.oocities.org/timessquare/stadium/4790/temple1.html",
       "sha256": "c2859ef8b6b6eba31d883cb975626719d3227a69bed4d7f5c0b7ea3b6a2556ac",
@@ -6545,7 +6547,7 @@
       "filename": "thomas.kye",
       "author": "Thomas",
       "homepage": "https://www.oocities.org/timessquare/stadium/4790/thomast.html",
-      "sha256": "45594ee34880728ed53ac871f867c617b1fbe62c0fe5b94689bb4d27f105b44c",
+      "sha256": "df4ef29d51a808f63300fd000900ea32de463bc9b01da52c0c4f6215824490b8",
       "levels": 23,
       "sources": [
         {
