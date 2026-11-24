@@ -49,6 +49,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "7515f9ae023d560ec410232093fe6f768f86537400f58fa8d6f55aed74cf303e",
       "levels": 2,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/2STRANGE.KYE",
@@ -132,6 +133,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "d2b7401794ff5c38240696d7b5aa349bdd5e58b08f9aabe8545c3910f74950c2",
       "levels": 10,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/ABA-EASY.KYE",
@@ -165,6 +167,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "6fa91086a8e8645a4ae87fbb5561aaff4be0ab3bedc88de6b80bc57f6614c667",
       "levels": 10,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/ABA-TUFF.KYE",
@@ -335,6 +338,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "a59f30b7bd8f7f7eb55648b52df23926f1509a8dea74311515c4735f996779c5",
       "levels": 1,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/AMAZIN.KYE",
@@ -388,6 +392,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "f2c0c47978bc41ec776fa84503d305e13ae5f516337581ee35bc246821c9bba4",
       "levels": 7,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/ANDREW.KYE",
@@ -421,6 +426,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "2f6977cad193729160ab750d933c110f61cacaed05d248eb9a187b3c5b6be034",
       "levels": 1,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/ANGIE.KYE",
@@ -596,6 +602,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "1e0397db97114936cf90d5c9bd9edc5876d05084ee36d70535b223814296f687",
       "levels": 4,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/ASHFASTS.KYE",
@@ -629,6 +636,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "f5e5e557a91f8b31b9cbecdc1a3feebb8c8be41840b98c73414856276c4496c2",
       "levels": 4,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/ASHMAZES.KYE",
@@ -662,6 +670,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "978876302872b2f553fdf65d517ce6c4ae0558f2f9279c13c16d5bd8d7d72996",
       "levels": 5,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/ASHSHOWS.KYE",
@@ -695,6 +704,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "9a68353569c00699f544ba19ec9896c67f802b19c03b1e3adf0e4904de375129",
       "levels": 5,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/ASHSLIDE.KYE",
@@ -740,6 +750,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "51dfccae5cf9b0c5e946193f5291794afaeb3380f71e3218574a6d11183d1c3c",
       "levels": 8,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/AXBEY.KYE",
@@ -839,6 +850,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "b46e8c79a5da0849e7341fbb45e0fe2b26419b24848a64c2f877bf44086788d2",
       "levels": 1,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/Ben.kye",
@@ -1129,6 +1141,7 @@
       "extensions": [
         "unknown"
       ],
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/BULL1.KYE",
@@ -1162,6 +1175,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "647099c7d57ef6910b88a93a05d5951415643f1c9477e6b210513bf426376692",
       "levels": 4,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/BULL2.KYE",
@@ -1198,6 +1212,7 @@
       "extensions": [
         "unknown"
       ],
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/BUTTER.KYE",
@@ -1231,6 +1246,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "c70172caa19ac4c412043627b337077d4f172eec9e4abcead2286b5ff19809cd",
       "levels": 1,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/CASCADE.KYE",
@@ -1280,6 +1296,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "500bf230767856837d55dc7e79dba3d89dfd82ad33b4b61b091420b0fa6f2557",
       "levels": 1,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/CHARLES1.KYE",
@@ -1313,6 +1330,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "6325db7a9ec8d0c69550e16068f4c9c6542f0e3eeceef45fa7ead5b1723a3978",
       "levels": 6,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/CHAS.KYE",
@@ -1386,6 +1404,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "f0003264a256fe1e4e2b5645901c7ec055c9453f099b9e6c17691863650caf27",
       "levels": 3,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/CHRIS.KYE",
@@ -1423,6 +1442,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "727993731cb303dfcf9af3b5ea55bd4d5725ba4eecec0d96a9290ec8b8d7c7b2",
       "levels": 1,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/CHRIS2.KYE",
@@ -1456,6 +1476,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "6a2668de6757bab5e91f3c971335a9dfa1d3e1c1ee84adb488debcde76aff6c4",
       "levels": 4,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/CHRIS3.KYE",
@@ -1507,6 +1528,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "e7dda52631fd67d326d7f2ef05b44ffcdabc0d994660bccc9ab9cf7bbb6036b4",
       "levels": 6,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/CKP001.KYE",
@@ -1560,6 +1582,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "b36443522c43204239216d08725cd9ff422d9dac9e41145ec7916560ff8bc560",
       "levels": 1,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/COP.KYE",
@@ -1787,6 +1810,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "4d64723ad5c803580c778aba497dc09b1f52f8e10c09cb55d5e5d0948be53194",
       "levels": 4,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/CUSTOM.KYE",
@@ -1862,6 +1886,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "10fce6b1e58e163e987f4329d96962479cad25b3d775edc3554a557140db319e",
       "levels": 14,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/DANISH1.KYE",
@@ -1941,6 +1966,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "396964089fecad4cea503289c899633ca35cdfc8a3512979a9eafd1c95a154a5",
       "levels": 14,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/DANISH2.KYE",
@@ -1995,6 +2021,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "8a05883eb3574451b0c7287925f4cec7b25792db83d104fcb4b10febc846143c",
       "levels": 12,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/DANISH3.KYE",
@@ -2058,6 +2085,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "f8b6f7f3beac820fc19feaa430f0ac01fa4654e54c63838f20a0c1a13a6f3548",
       "levels": 5,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/DAVIDH.KYE",
@@ -2425,6 +2453,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "07dd131b9dd6de1cc9c50b36a0379f3bf3562ed32f6491f6b43f600b72749eb4",
       "levels": 8,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/DIE.KYE",
@@ -2458,6 +2487,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "f05191e69a1a55d0dd161165d03f696756363ce92251086c0fbbdc342b92977e",
       "levels": 7,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/DKF.KYE",
@@ -2507,6 +2537,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "3450cdc2f70b72c515ac0bfa95c858c7c3e825cbb7627ba5d5efcbe0138334b9",
       "levels": 15,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/DKF4.KYE",
@@ -2560,6 +2591,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "5546da46cdc640357a208f1c7800e1b3b9901326b7dcd50487736cf9020bc8b2",
       "levels": 8,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/DKF6.KYE",
@@ -2626,6 +2658,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "46df237cddc30b4b0f915e1ab6179583866accdc7dd2ded21f436b75008b3573",
       "levels": 1,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/DOORS.KYE",
@@ -2659,6 +2692,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "7b562a474ffcede574bdd3da9e29394d2e8c3a18863694bb50247f189547d564",
       "levels": 31,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/EARLH.KYE",
@@ -2749,6 +2783,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "2eb68a72e7d76ca9f9f9a193a2de46e052beada04d0dcf90418c3d06ac7117e5",
       "levels": 1,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/ERIN.KYE",
@@ -2786,6 +2821,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "3d4bf2205fb09137878d1e92ca563b380f9e3e98556ed82ffc2d16555813247f",
       "levels": 1,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/FACTOR.KYE",
@@ -2856,6 +2892,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "5dd860718aa97be95bd4fbb770ca1bea6670e61b2bcd7ccb2192110cf60fa6cb",
       "levels": 10,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/FIFI.KYE",
@@ -2889,6 +2926,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "2f13a866a58deac6f55597ebaab11428c48224fa2d287e0b91daed3bb0dea683",
       "levels": 1,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/FISSIO.KYE",
@@ -2987,6 +3025,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "2f43320bfeacef6fd1a7993fd8f41449d7769872b4477e106e699846cbd09ba9",
       "levels": 5,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/GARRY.KYE",
@@ -3053,6 +3092,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "630b4495a4d21f449f7fb8270ac87b0938eed172d34a407850f7db3f770a461f",
       "levels": 5,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/GGRIGS.KYE",
@@ -3103,6 +3143,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "acdc1f2891d3d81db3f4ca43103e27e382ecf90ef30c768cde6d55edfda34934",
       "levels": 6,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/GLENSET2.KYE",
@@ -3136,6 +3177,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "2c1484bd35cf736c33e2f1ad511f3b67f097c8ed05e1355e57443a15ef2fddf2",
       "levels": 1,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/GNATS.KYE",
@@ -3198,6 +3240,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "68db69a099aa359d879c0a5e29e1f34bf97f9965a201c4662a20976e83d253c2",
       "levels": 1,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/H1.KYE",
@@ -3256,6 +3299,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "0b876b5d39508d294930dc93e43d4183e6576e232bfda68fa862e234e230fbb1",
       "levels": 1,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/HARD.KYE",
@@ -3297,6 +3341,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "0a318aaaf052fa77fcbf4335d0be7f495cf9d31b9a63d15a560930af26ec3dab",
       "levels": 12,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/HERCULES.KYE",
@@ -3471,6 +3516,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "f107049b8326742cd906ea9a1da6ca8d4e12764079a2a47dddc8765a4a0b5411",
       "levels": 1,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/ICD.KYE",
@@ -3647,6 +3693,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "3fc510846d9686b4843bbf6becd4c359f28dca77fdc073446905b5d9b1d8a85d",
       "levels": 11,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/JASPER.KYE",
@@ -3680,6 +3727,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "9b55dfd54fa723108ddd7c26127df9bc30e152567e7d4a0fd5b3bc77269f797b",
       "levels": 1,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/JDH.KYE",
@@ -3713,6 +3761,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "bf20c8205194f508f775a605c59529593d618884d4bb976d7ce6e950a676acab",
       "levels": 4,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/JENNY.KYE",
@@ -3746,6 +3795,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "a5823dc008fd0dbc3223b7c6e2c21c919e23e0276a3556ace316247f5d9aa15d",
       "levels": 1,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/JEREMY.KYE",
@@ -3804,6 +3854,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "110677e3c93b2508706fe31a2d2946753ae4f8db0aabafd903c11c4ed8959387",
       "levels": 5,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/JMARSTON.KYE",
@@ -3881,6 +3932,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "9f1066e4abe06aa9931ec82ebea3d43cb9f43e6bd3978e4f70e82e852b4c30fe",
       "levels": 10,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/JUNGLE.KYE",
@@ -3964,6 +4016,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "8eba1c64fa0bbaa5f187a17b76d530df75721e1b38cfddec04c944daa837362a",
       "levels": 16,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/KIDS.KYE",
@@ -4213,6 +4266,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "3f8fc73e33b2f3ee1a0cc3f729f98d851d7f113f8c685fe1bbb791e98684f811",
       "levels": 4,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/LIZZY.KYE",
@@ -4258,6 +4312,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "04f9ddf06bf028b06b8c61bf6e942721a9098ff1b6ba1ebfcfb85bdedc355d38",
       "levels": 6,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/LUCY.KYE",
@@ -4451,6 +4506,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "b8012c704c09c6e49aa4ef9fdbb7bccb806223786ebea0c40e74c522e69d5d7c",
       "levels": 6,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/MONSTERS.KYE",
@@ -4589,6 +4645,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "f930e846cddd48d7756b8a6b462d940bb43ccd289a8c60b43d4b4ab23310ea33",
       "levels": 1,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/NASTY.KYE",
@@ -4630,6 +4687,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "a65d1e740d0de0df4fa0597bf3741fe4ba652f8082cb03903ee70f8939e309ed",
       "levels": 3,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/NATHAN.KYE",
@@ -4679,6 +4737,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "d21da0968a9d8355123515795eee4899de5ad666084186e854cab7f4b566be38",
       "levels": 10,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/NEIL-KYE.KYE",
@@ -4856,6 +4915,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "05489ce901095e274603a8b0f9e7d421c7c010ef845bcf21db75255e904c39cd",
       "levels": 4,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/PETESKYE.KYE",
@@ -4889,6 +4949,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "16e3506749950b8a5a3c9343aa1acb9b785b60d810b8cedc43a36bb5cd83805a",
       "levels": 3,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/PHIL.KYE",
@@ -4947,6 +5008,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "1e29365a25bf7194389d2ea299d9b2f8ec7eeb718dfbfa4fe13ea8e579d7bd1d",
       "levels": 5,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/PINKYE.KYE",
@@ -4996,6 +5058,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "97d35e03cdd1e7fed8959d1d83f6674ebcd124f0750575c118a9080e3a096c11",
       "levels": 16,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/PLUS2.KYE",
@@ -5091,6 +5154,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "49fa5678ad057e6af8c18a4ea082d4b0a66b7e6b1df072500b21ce4dfa88871e",
       "levels": 7,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/POSITIVE.KYE",
@@ -5258,6 +5322,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "80da2f714d9eb8e7f51a6ad1cb9486cb2e1012e6831ced7283cb366dcfb8f8d8",
       "levels": 10,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/QUESTS.KYE",
@@ -5335,6 +5400,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "0f3e3feb353bffbe9ce5cbc788bf106b5bcdd0977be3e535c84eef48d109f298",
       "levels": 5,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/R_LEE.KYE",
@@ -5396,6 +5462,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "4612654ecc282cc175b99d692c3c3b9b9b519a008bfbd2f3546c945449786b5b",
       "levels": 1,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/RAY.KYE",
@@ -5560,6 +5627,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "8db8a0b636d46cd8e7f829efa0fc69df44af0309d133d8c9a944547666275ca2",
       "levels": 2,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/RUTH.KYE",
@@ -5628,6 +5696,7 @@
       "extensions": [
         "unknown"
       ],
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/RW1.KYE",
@@ -5786,6 +5855,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "54a125a510f0bfb06b75a5793174c0cf300aeefef327831ef40fd9ffe9f1e7f3",
       "levels": 10,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/SCOT.KYE",
@@ -5819,6 +5889,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "baba27901dbb048f399e6866590d639ecf3a474d66e24aa72a20d532e4773e98",
       "levels": 1,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/SEAN.KYE",
@@ -5872,6 +5943,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "c4d9649ab36992a5123b3b8df16fb22efaeef7db20fac8f26ca4f905a0c4d0b9",
       "levels": 8,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/SHAPES.KYE",
@@ -5961,6 +6033,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "6c2dd403a9bae03bc362079f05eb01876cf4d421be7fd05b17a8d1b97960fba0",
       "levels": 1,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/SPEEDO.KYE",
@@ -6086,6 +6159,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "c8a000f03a0b604693d60244ab3e4f6bf7de60d8d006834e356c7359aaabc3e3",
       "levels": 9,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/STICKY.KYE",
@@ -6119,6 +6193,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "2fbc3494c2c6f7bcf9bc9171d118e6c3ae204b51c4804ff68da4f45619068987",
       "levels": 10,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/STUSOFT.KYE",
@@ -6213,6 +6288,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "2f7fd3983b24e0d5d0de775886c110bea93dc91bb224b5a01a5094423edb8569",
       "levels": 1,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/TAIL.KYE",
@@ -6566,6 +6642,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "5c3cc6d4a4411b72baca7c6ba0657b21e1b4ef0ed5f8892b0efeb11d785d10be",
       "levels": 5,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/TIM1.KYE",
@@ -6859,6 +6936,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "3f2eae17592f628af9d48037551a77201b9c71782fbab70088537e90a4f32440",
       "levels": 1,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/VLCANO.KYE",
@@ -6991,6 +7069,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "1c2c3ce82c2699ad4efd7a4eb4cc1b2f64b0c16dc5b42e1957d37e88d08a2b16",
       "levels": 1,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/WARRIOR.KYE",
@@ -7028,6 +7107,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "9eccaa6817a01e4c011c5f1a5c0d92d77fc41c52541d5fa3b2a352668cbcdb51",
       "levels": 1,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/WAVE.KYE",
@@ -7083,6 +7163,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "15c85e163f179a11d3fb3ccbde300f3a82f0b83975888c1ed52681f1659b23ff",
       "levels": 8,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/WHIS.KYE",
@@ -7137,6 +7218,7 @@
       "homepage": "https://kye.me.uk/charitylevels.html",
       "sha256": "7b5ab7a76ab0ad7ad6489e3fffd89f43f5387a21576cbbe7028d532efa5e0359",
       "levels": 1,
+      "charity": true,
       "sources": [
         {
           "url": "https://kye.me.uk/downloads/kye.zip!/WIZARD.KYE",

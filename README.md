@@ -58,6 +58,11 @@ against the set's `sha256` after normalizing it.
   `-extensions kye3`. `unknown` marks a set with a level that no known version
   plays as written: a character no version defines, no Kye or more than one,
   or no diamonds.
+- `charity`: `true` for the sets Colin Garbutt shared on the honour system,
+  for players who donate to a children's charity: those listed on
+  [Charity Levels for Kye](https://www.kye.me.uk/charitylevels.html), in the
+  copies from its `kye.zip`. Omitted otherwise. It is set by hand. Players
+  should only see these sets once they say they have donated.
 - `sources`: every known download, best first. `url` downloads the file
   directly; `!/` separates an archive (zip, tar, tar.gz, or an LHA .lzh or
   self-extracting .exe using -lh0- or -lh5-) from the path of a file inside
